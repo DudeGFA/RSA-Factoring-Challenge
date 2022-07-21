@@ -1,4 +1,4 @@
-We have sniffed an unsecured network and found numbers that are used to encrypt very important documents. It seems that those numbers are not always generated using large enough prime numbers. Your mission should you choose to accept it, is to factorize these numbers as fast as possible before the target fixes this bug on their server - so that we can decode the encrypted documents.
+**We have sniffed an unsecured network and found numbers that are used to encrypt very important documents. It seems that those numbers are not always generated using large enough prime numbers. Your mission should you choose to accept it, is to factorize these numbers as fast as possible before the target fixes this bug on their server - so that we can decode the encrypted documents.**
 
 ## 0. Factorize all the things!
 #advanced
@@ -84,7 +84,7 @@ p and q are always prime numbers
 There is only one number in the files
 How far can you go in less than 5 seconds?
 
-Read: (RSA Factoring Challenge)[https://alx-intranet.hbtn.io/rltoken/Cn9Lq_kKNpNx4dmvFMuwgQ]
+Read: [RSA Factoring Challenge](https://alx-intranet.hbtn.io/rltoken/Cn9Lq_kKNpNx4dmvFMuwgQ)
 
 ~~~
 julien@ubuntu:~/RSA Factoring Challenge$ cat tests/rsa-1
